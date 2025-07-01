@@ -6,20 +6,20 @@
 
 ## 🧭 Índice
 
-- [Playgrounds & Desafios](#playgrounds--desafios)
-- [Geradores & Ferramentas](#geradores--ferramentas)
-- [Performance](#performance)
-- [Acessibilidade](#acessibilidade)
-- [Testes](#testes)
-- [Frameworks](#frameworks)
-- [Componentes & UI](#componentes--ui)
-- [Ícones & Imagens](#ícones--imagens)
-- [Tipografia](#tipografia)
-- [Documentações](#documentações)
-- [Inspiração & Design](#inspiração--design)
-- [Cheat Sheets](#cheat-sheets)
-- [Cursos & Tutoriais](#cursos--tutoriais)
-- [Outros Repositórios Incríveis](#outros-repositórios-incríveis)
+- [Playgrounds & Desafios](#-playgrounds--desafios)
+- [Geradores & Ferramentas](#-geradores--ferramentas)
+- [Performance](#-performance)
+- [Acessibilidade](#-acessibilidade)
+- [Testes](#-testes)
+- [Frameworks](#-frameworks)
+- [Componentes & UI](#-componentes--ui)
+- [Ícones & Imagens](#-ícones--imagens)
+- [Tipografia](#-tipografia)
+- [Documentações](#-documentações)
+- [Inspiração & Design](#-inspiração--design)
+- [Cheat Sheets](#-cheat-sheets)
+- [Cursos & Tutoriais](#-cursos--tutoriais)
+- [Outros Repositórios Incríveis](#-outros-repositórios-incríveis)
 
 ---
 
