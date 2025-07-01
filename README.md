@@ -36,6 +36,8 @@
 | [CodePen](https://codepen.io/) | Editor online para front-end com projetos de comunidade. | ✅ |
 | [JSFiddle](https://jsfiddle.net/) | Ferramenta para testes rápidos de HTML, CSS e JS. | ✅ |
 
+**[⬆ Voltar para o topo](#-%C3%ADndice)**
+
 ---
 
 ## ⚒️ Geradores & Ferramentas
@@ -47,6 +49,9 @@
 | [UI Generator](https://uigenerator.dev/) | Gere interfaces com prompts de IA. | ✅ |
 | [Glass UI](https://ui.glass/generator/) | Gere efeitos de glassmorphism. | ✅ |
 
+
+**[⬆ Voltar para o topo](#-%C3%ADndice)**
+
 ---
 
 ## 🚀 Performance
@@ -56,6 +61,8 @@
 | [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) | Ferramenta de auditoria de performance. | ✅ |
 | [WebPageTest](https://www.webpagetest.org/) | Testes detalhados de carregamento. | ✅ |
 
+**[⬆ Voltar para o topo](#-%C3%ADndice)**
+
 ---
 
 ## ♿ Acessibilidade
@@ -64,6 +71,8 @@
 |------|-----------|---------|
 | [Deque Axe DevTools](https://www.deque.com/axe/devtools/) | Avaliação de acessibilidade automática. | ✅ |
 | [Accessibility Cheatsheet](https://accessibilitycheatsheet.com/) | Guia rápido de boas práticas. | ✅ |
+
+**[⬆ Voltar para o topo](#-%C3%ADndice)**
 
 ---
 
@@ -75,6 +84,8 @@
 | [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) | Testes focados em comportamento. | ✅ |
 | [Playwright](https://playwright.dev/) | E2E moderno da Microsoft. | ✅ |
 
+**[⬆ Voltar para o topo](#-%C3%ADndice)**
+
 ---
 
 ## 🧱 Frameworks
@@ -83,6 +94,8 @@
 |------|-----------|---------|
 | [Next.js](https://nextjs.org/) | Framework React fullstack. | ✅ |
 | [Vite](https://vitejs.dev/) | Bundler rápido com suporte a diversos frameworks. | ✅ |
+
+**[⬆ Voltar para o topo](#-%C3%ADndice)**
 
 ---
 
@@ -94,6 +107,8 @@
 | [Headless UI](https://headlessui.com/) | Componentes acessíveis sem estilos. | ✅ |
 | [Radix UI](https://www.radix-ui.com/) | Componentes low-level com acessibilidade. | ✅ |
 
+**[⬆ Voltar para o topo](#-%C3%ADndice)**
+
 ---
 
 ## 🖼️ Ícones & Imagens
@@ -104,6 +119,8 @@
 | [Lucide Icons](https://lucide.dev/) | Versão open-source dos Feather. | ✅ |
 | [Undraw](https://undraw.co/illustrations) | Ilustrações gratuitas e personalizáveis. | ✅ |
 
+**[⬆ Voltar para o topo](#-%C3%ADndice)**
+
 ---
 
 ## ✒️ Tipografia
@@ -112,6 +129,8 @@
 |------|-----------|---------|
 | [Google Fonts](https://fonts.google.com/) | Biblioteca de fontes para web. | ✅ |
 | [Fontpair](https://www.fontpair.co/) | Combinações tipográficas harmônicas. | ✅ |
+
+**[⬆ Voltar para o topo](#-%C3%ADndice)**
 
 ---
 
@@ -122,6 +141,8 @@
 | [MDN Web Docs](https://developer.mozilla.org/) | A bíblia do desenvolvimento web. | ✅ |
 | [Can I use](https://caniuse.com/) | Compatibilidade entre navegadores. | ✅ |
 
+**[⬆ Voltar para o topo](#-%C3%ADndice)**
+
 ---
 
 ## 🌈 Inspiração & Design
@@ -130,6 +151,8 @@
 |------|-----------|---------|
 | [Dribbble](https://dribbble.com/) | Inspiração visual para design e UI. | ✅ |
 | [Behance](https://www.behance.net/) | Portfólios criativos do mundo todo. | ✅ |
+
+**[⬆ Voltar para o topo](#-%C3%ADndice)**
 
 ---
 
@@ -140,6 +163,8 @@
 | [OverAPI](https://overapi.com/) | Cheatsheets para várias tecnologias. | ✅ |
 | [DevHints](https://devhints.io/) | Referência rápida para devs. | ✅ |
 
+**[⬆ Voltar para o topo](#-%C3%ADndice)**
+
 ---
 
 ## 📚 Cursos & Tutoriais
@@ -149,6 +174,8 @@
 | [FreeCodeCamp](https://www.freecodecamp.org/) | Cursos gratuitos de programação. | ✅ |
 | [The Odin Project](https://www.theodinproject.com/) | Curriculum completo para web devs. | ✅ |
 
+**[⬆ Voltar para o topo](#-%C3%ADndice)**
+
 ---
 
 ## 🧭 Outros Repositórios Incríveis
@@ -157,6 +184,8 @@
 - [arthurspk/guiadofrontend](https://github.com/arthurspk/guiadofrontend)
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [yurimutti/recursos-frontend](https://github.com/yurimutti/recursos-frontend)
+
+**[⬆ Voltar para o topo](#-%C3%ADndice)**
 
 ---
 
@@ -187,6 +216,8 @@ Quer colaborar com este repositório? Toda ajuda é bem-vinda! Aqui vão algumas
 
 #### 6. Abra um Pull Request no repositório original
 
+**[⬆ Voltar para o topo](#-%C3%ADndice)**
+
 ---
 
 ## ⭐ Como apoiar
@@ -201,6 +232,8 @@ Quer colaborar com este repositório? Toda ajuda é bem-vinda! Aqui vão algumas
 
 Desenvolvido por [Victor Medrado](https://linkedin.com/in/victor-medrado), autor do _Escrevo em Códigos_, onde exploro autogestão, produtividade e código com propósito.  
 Conecte-se comigo para trocar ideias!
+
+**[⬆ Voltar para o topo](#-%C3%ADndice)**
 
 ---
 
