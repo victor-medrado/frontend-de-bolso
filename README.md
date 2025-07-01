@@ -7,19 +7,22 @@
 ## 🧭 Índice
 
 - [Playgrounds & Desafios](#-playgrounds--desafios)
-- [Geradores & Ferramentas](#-geradores--ferramentas)
+- [Geradores & Ferramentas]([#%EF%B8%8F-geradores--ferramentas)
 - [Performance](#-performance)
 - [Acessibilidade](#-acessibilidade)
 - [Testes](#-testes)
 - [Frameworks](#-frameworks)
 - [Componentes & UI](#-componentes--ui)
-- [Ícones & Imagens](#-ícones--imagens)
-- [Tipografia](#-tipografia)
+- [Ícones & Imagens](#%EF%B8%8F-%C3%ADcones--imagens)
+- [Tipografia](#%EF%B8%8F-tipografia)
 - [Documentações](#-documentações)
 - [Inspiração & Design](#-inspiração--design)
 - [Cheat Sheets](#-cheat-sheets)
 - [Cursos & Tutoriais](#-cursos--tutoriais)
 - [Outros Repositórios Incríveis](#-outros-repositórios-incríveis)
+- [Como Contribuir](#-como-contribuir)
+- [Como Apoiar](#-como-apoiar)
+- [Sobre Este Projeto](#-sobre-este-projeto)
 
 ---
 
