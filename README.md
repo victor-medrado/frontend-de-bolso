@@ -7,7 +7,7 @@
 ## 🧭 Índice
 
 - [Playgrounds & Desafios](#-playgrounds--desafios)
-- [Geradores & Ferramentas]([#%EF%B8%8F-geradores--ferramentas)
+- [Geradores & Ferramentas](#%EF%B8%8F-geradores--ferramentas)
 - [Performance](#-performance)
 - [Acessibilidade](#-acessibilidade)
 - [Testes](#-testes)
@@ -15,8 +15,10 @@
 - [Componentes & UI](#-componentes--ui)
 - [Ícones & Imagens](#%EF%B8%8F-%C3%ADcones--imagens)
 - [Tipografia](#%EF%B8%8F-tipografia)
+- [Cores](#-cores)
 - [Documentações](#-documentações)
 - [Inspiração & Design](#-inspiração--design)
+- [UI & UX](#-ui--ux)
 - [Cheat Sheets](#-cheat-sheets)
 - [Cursos & Tutoriais](#-cursos--tutoriais)
 - [Outros Repositórios Incríveis](#-outros-repositórios-incríveis)
@@ -118,6 +120,9 @@
 | [Phosphor Icons](https://phosphoricons.com/) | Ícones bonitos e flexíveis. | ✅ |
 | [Lucide Icons](https://lucide.dev/) | Versão open-source dos Feather. | ✅ |
 | [Undraw](https://undraw.co/illustrations) | Ilustrações gratuitas e personalizáveis. | ✅ |
+| [Unsplash](https://unsplash.com/) | Banco de imagens realmente bonitas e gratuitas para baixar. | ✅ |
+| [Freepik](https://br.freepik.com/) | Banco de recursos -  encontre fotos, ícones, vídeos, ícones, mockups. | ✅ |
+| [Flaticon](https://www.flaticon.com/) | Banco de ícones e stickers | ✅ |
 
 **[⬆ Voltar para o topo](#-%C3%ADndice)**
 
@@ -129,6 +134,21 @@
 |------|-----------|---------|
 | [Google Fonts](https://fonts.google.com/) | Biblioteca de fontes para web. | ✅ |
 | [Fontpair](https://www.fontpair.co/) | Combinações tipográficas harmônicas. | ✅ |
+
+**[⬆ Voltar para o topo](#-%C3%ADndice)**
+
+---
+
+## 🎨 Cores
+
+| Nome | Descrição | Grátis? |
+|------|-----------|---------|
+| [Coolors](https://coolors.co/) | Gere paletas de cores automaticamente. | ✅ |
+| [Color Hunt](https://colorhunt.co/) | Paletas modernas e inspiradoras. | ✅ |
+| [Khroma](https://khroma.co/) | Escolha cores com apoio de IA. | ✅ |
+| [ColorBox](https://colorbox.io/) | Crie e ajuste escadas de cor com precisão. | ✅ |
+| [Adobe Color](https://color.adobe.com/pt/create) | Gerador de paleta de cores. | ✅ |
+| [uiGradients](https://uigradients.com/) | Lindos gradientes de cores para design e código | ✅ |
 
 **[⬆ Voltar para o topo](#-%C3%ADndice)**
 
@@ -151,6 +171,29 @@
 |------|-----------|---------|
 | [Dribbble](https://dribbble.com/) | Inspiração visual para design e UI. | ✅ |
 | [Behance](https://www.behance.net/) | Portfólios criativos do mundo todo. | ✅ |
+| [Awwwards](https://www.awwwards.com/) | O Awwwards reconhece e premia o talento e o esforço dos melhores web designers, desenvolvedores e agências do mundo. | ✅ |
+
+**[⬆ Voltar para o topo](#-%C3%ADndice)**
+
+---
+
+## 🎯 UI & UX
+
+| Nome                                                                                                    | Descrição                                                          | Gratuito     |
+| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------ |
+| [Laws of UX](https://lawsofux.com/)                                                                     | Princípios psicológicos aplicados ao design de experiência.        | ✅            |
+| [UX Collective](https://uxdesign.cc/)                                                                   | Publicações sobre UX, UI, design thinking e produtos.              | ✅            |
+| [UI Patterns](https://ui-patterns.com/)                                                                 | Biblioteca de padrões de interface para resolver problemas comuns. | ✅            |
+| [Checklist Design](https://www.checklist.design/)                                                       | Checklists de boas práticas para componentes de UI.                | ✅            |
+| [Collect UI](https://collectui.com/)                                                                    | Galeria de interfaces com ideias e inspirações visuais.            | ✅            |
+| [Mobbin](https://mobbin.com/)                                                                           | Biblioteca com milhares de screenshots de apps reais.              | ✅ (limitado) |
+| [UI Coach](https://uicoach.io/)                                                                         | Exemplos práticos de UI com análises e soluções.                   | ✅            |
+| [Heuristics for Interface Design - Nielsen](https://www.nngroup.com/articles/ten-usability-heuristics/) | As 10 heurísticas clássicas de usabilidade de Jakob Nielsen.       | ✅            |
+| [Dribbble](https://dribbble.com/)                                                                       | Comunidade e portfólio de designers de interface.                  | ✅ (limitado) |
+| [Design Vault](https://designvault.io/)                                                                 | Catálogo de UIs de produtos famosos.                               | ✅            |
+| [Untools](https://untools.co/)                                                                          | Ferramentas mentais para pensamento sistêmico e UX strategy.       | ✅            |
+| [Untools](https://www.uxlibrary.org/)                                                                   | Biblioteca de artigos, livros, recursos, ícones, avatares e mais.  | ✅            |
+
 
 **[⬆ Voltar para o topo](#-%C3%ADndice)**
 
