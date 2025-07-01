@@ -1,5 +1,8 @@
 # 🧩 frontend-de-bolso
 
+![EC - Frontend de bolso](https://github.com/user-attachments/assets/f4ebb834-cd5c-4c37-9105-27ceacdaaed7)
+
+
 > Uma curadoria pessoal e colaborativa de ferramentas, sites e referências úteis para quem desenvolve no front-end. Feito com carinho para facilitar o acesso ao que importa — do iniciante ao avançado.
 
 ---
